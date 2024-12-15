@@ -5,7 +5,7 @@ The guessing game has 2 modes:<br>
 1. Computer guesses the number user thought of by hints (low/high/equal)<br>
 2. Computer generates a random number. User guesses it by hints (low/high)
 
-## Running Rock, Paper, Scissors
+## Running Guessing the Number Game
 
 ` python  .\game.py `
 
