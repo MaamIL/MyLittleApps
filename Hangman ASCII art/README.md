@@ -14,8 +14,8 @@ Hangman ASCII art is an exercise I took from campusIL. It is ran in cmd and the 
 Hangman ASCII art code holds 2 code files and 1 additional must-have file: <br>
 **FinalGame.py** - holds the code for the game. <br>
 **ascii_art.py** - holds the ascii art:<br>
-![art1](./imgs/art1.png)
-![art2](./imgs/art2.png)
+![art1](./imgs/art1.png)<br>
+![art2](./imgs/art2.png)<br>
 **words.txt** - a file taken from the web, holding thousands of words in english. Hangman chooses a random word from this file.<br>
 The Ascii art file holds a dictionary for each art. The main code calls each art according to its situation number. It requires colorama python libraries to show a bit of color in the cmd.<br>
 
