@@ -1,0 +1,9 @@
+geopy
+tkinter
+googletrans
+currency_converter
+forex_python
+datetime
+pytz
+pycountry
+requests
