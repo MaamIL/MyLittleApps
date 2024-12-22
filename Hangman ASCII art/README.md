@@ -22,7 +22,7 @@ The Ascii art file holds a dictionary for each art. The main code calls each art
 ## Playing Hangman ASCII art
 
 Once ran, after the openning ASCII art, you will have the 4 elements that will guide you: <br>
-1. word to guess with number of letters in the parentheses followed by underline for each letter.<br>
+1. Word to guess with number of letters in the parentheses followed by underline for each letter.<br>
 2. Hangman is the ASCII art of the status you are at (each wrong guess will promote the hanging man art). <br>
 3. Tries left is how many times you can error (initialy 6). <br>
 4. Letters used is an array of letters you have guessed before to help you not guess the same again.<br>
