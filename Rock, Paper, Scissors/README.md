@@ -28,7 +28,7 @@ Next, you will be asked to insert your selection- 1/2/3. <br>
 If you enter a number other than 1/2/3- you will get a validation error: <br>
 ![End1 Screenshot](./imgs/scn6.png)
 <br>
-Now the "processing" animation will run for a few seconds- it is the Rock, Paper, Scissors icons flashing one after the other. Once done, you'll get the results: what yoy chose, what the computer chose and if you win/loose/tie (Teko-Teko).
+Now the "processing" animation will run for a few seconds- it is the Rock, Paper, Scissors icons flashing one after the other. Once done, you'll get the results: what you chose, what the computer chose and if you win/loose/tie (Teko-Teko).
 <br>
 ![End1 Screenshot](./imgs/scr3.png)![End2 Screenshot](./imgs/scr4.png)![End3 Screenshot](./imgs/scr5.png)
 <br>
