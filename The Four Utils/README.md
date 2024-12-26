@@ -17,7 +17,7 @@ The Four Utils code holds 2 files: <br>
 For visualizing the game, I used the 'TKinter' python interface library.<br>
 For translation I used googletrans python library.<br>
 For currency, I used currency_converter and forex_python python libraries.<br>
-Fot time, I used pytz and datetime python libraries.<br>
+For time, I used pytz and datetime python libraries.<br>
 For country distances I used geopy and sent request to https://restcountries.com/v3.1/name/{country_name}?fullText=true. 
 
 ## Playing The Four Utils
