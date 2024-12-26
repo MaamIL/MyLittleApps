@@ -29,7 +29,7 @@ Clicking 'Start' will open the main game screen, where each one of you, at his t
 There are 3 options for ending the game: X player wins, O player wins or Tie. <br>
 ![End1 Screenshot](./imgs/scrn3.png)
 <br>
-If you choose to play again- the game will restart while the other player starts (once X player starts, in the next game- O player starts and so on). The winning or tie numbers will be accumulated and shown each time you end a game, untill you'll exit.
+If you choose to play again- the game will restart while the other player starts (once X player starts, in the next game- O player starts and so on). The winning or tie numbers will be accumulated and shown each time you end a game, until you'll exit.
 <br>
 ![End2 Screenshot](./imgs/scrn4.png)
 <br>
