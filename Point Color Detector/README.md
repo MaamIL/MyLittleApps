@@ -17,7 +17,7 @@ Point Color Detection code holds 1 code file and 2 additional must-have files: <
 **colors.csv** - a csv file containing the RGB codes and the color name, taken from the web.<br>
 **image file** - an image to open the app with.<br>
 The code is pretty simple and straight forward. It requires opencv (cv2) and pandas python libraries.<br>
-The image is read with cv2.imread. A cv2.setMouseCallback is set. Once a point (x,y) is double clicked, I'm searching for the color values in the image (img[x,y]). Then, I'm getting the most matching color from the csv file. This is done by calculate minimum distance from all colors. Last- I'm showing it ontop of the image.
+The image is read with cv2.imread. A cv2.setMouseCallback is set. Once a point (x,y) is double clicked, I'm searching for the color values in the image (img[x,y]). Then, I'm getting the most matching color from the csv file. This is done by calculate minimum distance from all colors. Last- I'm showing it on top of the image.
 
 
 ## Playing Point Color Detection
